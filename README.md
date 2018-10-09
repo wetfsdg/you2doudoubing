@@ -12,9 +12,8 @@
 
 提供现成的YouTube API：
 ```
-AIzaSyBy2VkQXTgCWkfWfgejVUcKH5GuO2DFAds
+AIzaSyBIb7nPvBtVkzBn1kRunl30pR14HKjCQ-g
 
-AIzaSyAurg5k-lp9qQxA_IpC5x48YZ3-cslEQ5Q
 ```
 想要使用自己的youtube api可以在参考这里：https://you2php.github.io/doc/#getapi
 
